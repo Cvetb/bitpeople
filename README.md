@@ -1,6 +1,5 @@
 # bitpeople
 
-![](https://screenshotscdn.firefoxusercontent.com/images/3701739a-aadf-40c9-bb08-1ab499b9ac8b.jpg)
 
-
-![](https://screenshotscdn.firefoxusercontent.com/images/457a436c-42a9-4fb3-9895-867237f64828.png)
+![screenshot-2018-5-2 http localhost](https://user-images.githubusercontent.com/24230243/39540622-79d89754-4e43-11e8-8966-0755959e7068.jpg)
+![screenshot-2018-5-2 http localhost](https://user-images.githubusercontent.com/24230243/39540632-81ad1a5e-4e43-11e8-8015-d6d58a4e26c5.png)
